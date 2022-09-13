@@ -55,6 +55,8 @@
 #define _ZRX_VER 20
 #elif defined(ZRX21)
 #define _ZRX_VER 21
+#elif defined(ZRX22)
+#define _ZRX_VER 22
 #else
 #define _ZRX_VER 0
 #endif
